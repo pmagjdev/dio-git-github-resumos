@@ -8,5 +8,5 @@ Resumos de Git e GitHub, e seus principais codigos
 git init
 git clone (URL)
 git status
-git remote add origin (URL)
+
 ```
